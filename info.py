@@ -184,10 +184,10 @@ My academic interests has always lied in science and technology, fields where I 
 
 
 projects_data = {
-    "Binary Adder": "Developed and presented a research paper on a binary adder system, achieving 3rd prize at 'Jugend forscht'. Personally soldered the adder, capable of summing up to 14, demonstrating a deep understanding of digital logic gates. Received the German National Physics Award 'DPG-Abiturpreis' for physics excellence.",
-    "Blow-out Lamp": "Engineered a blow out lamp featuring a circuit with a light sensor. The design effectively minimized resistance when exposed to direct light, simulating a realistic 'blow out' effect.",
-    "CS 1301 Project: Game Shop": "Developed a web application for rating video game skins, incorporating a dynamic API to display the latest in-game store content, thereby enriching user interaction and engagement.",
-    "Grand Challenges": "Georgoa Tech LLC that focuses on developing solutions to real world problems; Problem discovery, customer discovery"
+    "Binary Adder": ("Developed and presented a research paper on a binary adder system, achieving 3rd prize at 'Jugend forscht'. Personally soldered the adder, capable of summing up to 14, demonstrating a deep understanding of digital logic gates. Received the German National Physics Award 'DPG-Abiturpreis' for physics excellence.","adder.jpg"),
+    "Blow-out Lamp": ("Engineered a blow out lamp featuring a circuit with a light sensor. The design effectively minimized resistance when exposed to direct light, simulating a realistic 'blow out' effect.",None),
+    "CS 1301 Project: Game Shop": ("Developed a web application for rating video game skins, incorporating a dynamic API to display the latest in-game store content, thereby enriching user interaction and engagement.",None),
+    "Grand Challenges": ("Georgoa Tech LLC that focuses on developing solutions to real world problems; Problem discovery, customer discovery",None)
 }
 s1 = "Discovery Project: Distance Sensor for Safety"
 s2 = "The primary goal of this project was to build a sensor capable of detecting objects within a specified range and alerting the user through an audible signal. I chose this project to explore and understand the intersection of electronics and programming. Beyond the technical skills, the project was driven by practical reasons – improving home security, preventing unwanted intrusions, and exploring the possibilities within the realm of smart home systems."
