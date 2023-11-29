@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/profile.jpeg"
+profile_picture = "profile.jpeg"
 about_me = "Hello! I'm Yichuan Liu, a first-year student at Georgia Institute of Technology, majoring in Electrical Engineering with a passion for exploring the realms of circuit technology and signal processing. My journey in engineering began early, marked by a fascination with rockets and electronic circuitry, leading to the creation of a binary adder system and launching rockets under professional guidance. My academic path is underscored by a 4.00 GPA and an array of skills ranging from hardware soldering to programming."
 about_me1 = "Beyond the classroom, I've taken on leadership roles, founding a Binary Adder project, guiding students in competitions, and even teaching German to Ukrainian refugees. These experiences have not only honed my technical expertise but have also cultivated my skills in public speaking and interpersonal communication."
 #CHANGE BELOW (OPTIONAL)
@@ -47,7 +47,7 @@ experience_data = {
             "- Applied principles of physics to predict and analyze flight dynamics",
             "- Utilized advanced mathematics to calculate trajectories, fuel requirements, and structural loads"
         ],
-        "images/lampodshausen.png"
+        "lampodshausen.png"
     ),
     "Co-Researcher: Self-Sufficient Home Project": (
         [
