@@ -179,8 +179,10 @@ activities_section(info.leadership_data, info.activity_data)
 # Projects
 def project_section(projects_data,s1,s2,s3,s4,s5,s6,s7,s8,p1,p2,p3):
     st.header("Projects")
-    for project_name, project_description in projects_data.items():
+    for project_name, (project_description,image) in projects_data.items():
         expander = st.expander(f"{project_name}")
+        if image is not None:
+                expander.image(image)
         expander.write(project_description)
     expander = st.expander(f"{s1}")
     expander.subheader("Objective and Motivation")
