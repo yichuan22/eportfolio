@@ -1,4 +1,3 @@
-
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
@@ -177,16 +176,13 @@ career_goals = {
 
 
 who_am_i = """
-I am Yichuan Liu, born in Hannover, Germany, and raised in a family of Chinese origin. My upbringing spanned various countries, primarily Germany and China, with a brief period in the United States. This multinational environment played a crucial role in shaping my academic and personal development.
+I am Yichuan Liu, born in Hannover, Germany, and raised in a Chinese family. My upbringing, spanning Germany, China, and a brief stint in the United States, has deeply influenced my academic and personal development.
 
-Residing in Germering, Germany, I was immersed in an environment characterized by its structure and order, aspects that greatly influenced my approach to learning and problem-solving. At home, Chinese traditions and language were predominant, providing me with a dual cultural perspective and bilingual proficiency in German and Mandarin.
+In Germering, Germany, I learned the value of structure and order in learning and problem-solving. My home life, rich in Chinese culture and language, bestowed bilingual proficiency in German and Mandarin. The time spent in the U.S. expanded my cultural horizons, enhancing my adaptability and global perspective.
 
-The short duration spent in the United States added a different dimension to my cultural exposure, introducing me to diverse ideas and methodologies. It was a period that enhanced my adaptability and furthered my interest in global perspectives.
+My educational journey, covering diverse school systems, fostered resilience and a swift adaptability to new environments. A participant in the Grand Challenges Experience, I've engaged deeply in addressing complex global issues. My academic interests lie primarily in science and technology, fields where I aim to make impactful contributions.
 
-Throughout my education, I navigated multiple school systems, adapting to different academic environments. This experience, though challenging, fostered resilience and a capacity for rapid adaptation. My academic interests have consistently centered around science and technology, a field where I aim to make significant contributions.
-
-In summary, my background is marked by diverse cultural experiences and educational environments, each contributing to my development as a globally aware individual with a strong foundation in science and technology.
-"""
+Currently, I'm involved in a startup dedicated to reducing food waste, a venture that aligns with my commitment to sustainable solutions and innovation. This diverse blend of cultural, educational, and professional experiences has shaped me into a globally aware individual, keenly focused on making a positive impact in science, technology, and sustainability."""
 
 
 projects_data = {
