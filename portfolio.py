@@ -217,6 +217,10 @@ def project_section(projects_data,s1,s2,s3,s4,s5,s6,s7,s8,p1,p2,p3):
     expander.write(s8)
     expander.write("source:https://www.geeksforgeeks.org/distance-measurement-using-ultrasonic-sensor-and-arduino/")
 
-    st.write("---")
-    
+    st.write("---")    
 project_section(info.projects_data,info.s1,info.s2,info.s3,info.s4,info.s5,info.s6,info.s7,info.s8,info.p1,info.p2,info.p3)
+st.subheader("Reference:")
+st.write("https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg")
+st.write("https://cdn-icons-png.flaticon.com/256/25/25231.png")
+st.write("https://logowik.com/content/uploads/images/513_email.jpg")
+st.write("https://www.dlr.de/en/dlr/locations-and-offices/lampoldshausen")
