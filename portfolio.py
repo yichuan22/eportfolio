@@ -71,17 +71,11 @@ def links_section():
     st.sidebar.header("Resume")
     with open(info.resume_file_path, 'rb') as file:
         st.sidebar.download_button(
-            label="Download Resume",
+            label="Download & View Resume",
             data=file,
             file_name=info.resume_download_name,
             mime='application/octet-stream'
         )
-
-    # View Resume button
-    if st.sidebar.button('View Resume'):
-        base64_pdf = get_base64_encoded_pdf(info.resume_file_path)
-        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>'
-        st.sidebar.markdown(pdf_display, unsafe_allow_html=True)
 
 # Call the sections to display them
 about_me_section()
