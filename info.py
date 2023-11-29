@@ -178,11 +178,9 @@ career_goals = {
 who_am_i = """
 I am Yichuan Liu, born in Hannover, Germany, and raised in a Chinese family. My upbringing, spanning Germany, China, and a brief stint in the United States, has deeply influenced my academic and personal development.
 
-In Germering, Germany, I learned the value of structure and order in learning and problem-solving. My home life, rich in Chinese culture and language, bestowed bilingual proficiency in German and Mandarin. The time spent in the U.S. expanded my cultural horizons, enhancing my adaptability and global perspective.
+In Germany, I learned the value of structure and order in learning and problem-solving. My home life, rich in Chinese culture and language, granted me bilingual proficiency in German and Mandarin. The time spent in the U.S. expanded my cultural horizons, enhancing my adaptability and global perspective. My educational journey, covering diverse school systems, fostered resilience and a swift adaptability to new environments. 
 
-My educational journey, covering diverse school systems, fostered resilience and a swift adaptability to new environments. A participant in the Grand Challenges Experience, I've engaged deeply in addressing complex global issues. My academic interests lie primarily in science and technology, fields where I aim to make impactful contributions.
-
-Currently, I'm involved in a startup dedicated to reducing food waste, a venture that aligns with my commitment to sustainable solutions and innovation. This diverse blend of cultural, educational, and professional experiences has shaped me into a globally aware individual, keenly focused on making a positive impact in science, technology, and sustainability."""
+My academic interests lie primarily in science and technology, fields where I aim to make impactful contributions. That is why I am a participant in the Grand Challenges Experience, that engages deeply in addressing complex global issues. Currently, I'm also involved in a startup dedicated to reducing food waste, a venture that aligns with my commitment to sustainable solutions and innovation. This diverse blend of cultural, educational, and professional experiences has shaped me into a globally aware individual, keenly focused on making a positive impact in science, technology, and sustainability."""
 
 
 projects_data = {
