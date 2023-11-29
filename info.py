@@ -98,7 +98,7 @@ spoken_icons = {
 spoken_data = {
     "German": "Fluent",
     "Mandarin": "Fluent",
-    "Englisch": "Fluent",
+    "English": "Fluent",
 }
 
 leadership_data = {
