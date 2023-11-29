@@ -163,8 +163,8 @@ career_goals = {
         "2031: Consider pursuing a Master's degree or additional certifications to deepen my expertise."
     ],
     "budget": [
-        "Allocate funds for potential graduate studies and certifications.",
-        "Manage expenses for internships, including travel and accommodation, if necessary."
+        "Undergraduate Degree: ~200k",
+        "Potential Masters: ~70k"
     ],
     "key_steps": [
         "Excel in my current academic program and engage in hands-on projects and internships.",
